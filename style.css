@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url(http://cdn.bigbangfish.com/beautiful/beautiful-beaches/beautiful-beaches-6.jpg
+    	);
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    /* Deal with title elements*/
+    position: absolute;
+    /* Start element 20% from the top and 50% from the left*/
+    top: 20%;
+    left: 50%;
+    transform: translated(-50%, -50%);
+    color: white;
+    text-align: center;
+    /* Triples size of font*/
+    font-size: 3em;
+}
+~
+
+     
